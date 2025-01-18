@@ -16,3 +16,6 @@ console.log(number3 * number4);
 console.log(number3 / number4);
 console.log(number3 % number4);
 console.log(number3 ** number4);
+let number1 = 1;
+let number2 = 1;
+alert(number1 == number2);
